@@ -128,4 +128,4 @@ Your support helps us continue making high-quality computer science and cybersec
 
 **Learn. Secure. Share.**
 
-> **This document was created and maintained by the CS50x Persian team, as part of the official CS50x Persian GitHub organization.**
+> **This document was created by [Borna Etminan](https://github.com/borna-etminan), an official member of the Harvard University CS50 Persian team and the main admin of this Github account.**
